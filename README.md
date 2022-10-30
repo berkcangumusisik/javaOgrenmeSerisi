@@ -4,7 +4,7 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 
 ![](https://www.vectorlogo.zone/logos/java/java-ar21.png)
 
-### 1.Gün
+# 1.Gün
 
 - Java Temelleri
 - Java Tarihçesi
@@ -12,3 +12,15 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Java İle Geliştirme Yapılabilecek Ortamlar
 - Ekrana Veri Yazdırma
 - Yorum Satırları
+
+# 2.Gün
+
+* Değişkenler
+* Değişken Tanımlama Kuralları
+* Veri Türleri
+
+# 3.Gün
+* Aritmek Operatörler
+* Karşılaştırma Operatörleri
+* Mantıksal Operatörler
+* Atama Operatörleri
