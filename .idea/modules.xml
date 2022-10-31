@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01.HelloWorld/01.HelloWorld.iml" filepath="$PROJECT_DIR$/01.HelloWorld/01.HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/02.Variables/02.Variables.iml" filepath="$PROJECT_DIR$/02.Variables/02.Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.Operators/03.Operators.iml" filepath="$PROJECT_DIR$/03.Operators/03.Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.KullanıcıdanVeriAlma/src/04.KullanıcıdanVeriAlma.iml" filepath="$PROJECT_DIR$/04.KullanıcıdanVeriAlma/src/04.KullanıcıdanVeriAlma.iml" />
     </modules>
   </component>
 </project>
