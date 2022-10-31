@@ -24,3 +24,6 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Karşılaştırma Operatörleri
 * Mantıksal Operatörler
 * Atama Operatörleri
+
+# 4.Gün
+* Kullanıcıdan Veri Almak
