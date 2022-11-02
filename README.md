@@ -27,3 +27,14 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 
 # 4.Gün
 * Kullanıcıdan Veri Almak
+
+# 5.Gün
+* Not Ortalaması Hesaplayan Program
+* KDV Tutarı Hesaplayan Program
+* Dik Üçgende Hipotenüs Bulan Program
+* Taksimetre Programı
+
+# 6. Gün
+* Dairenin Alanını ve Çevresini Hesaplayan Program
+* Vücut Kitle İndeksi Hesaplayan Program
+* Manav Kasa Programı
