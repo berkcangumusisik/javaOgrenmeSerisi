@@ -12,6 +12,12 @@ public class DaireAlanveCevreHesaplama {
 
         System.out.println("Alan : " + alan);
         System.out.println("Çevre : " + cevre);
+
+        System.out.println("Merkez Açısının Ölçüsü a Giriniz : ");
+        double a = scanner.nextDouble();
+        alan = (pi * (r*r) * a) / 360;
+
+        System.out.println("Dairenin Alanı  : " +alan);
     }
 }
 
