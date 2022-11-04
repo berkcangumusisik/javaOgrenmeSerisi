@@ -38,3 +38,7 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Dairenin Alanını ve Çevresini Hesaplayan Program
 * Vücut Kitle İndeksi Hesaplayan Program
 * Manav Kasa Programı
+
+# 7. Gün
+* If - Else
+* If - Else If - Else
