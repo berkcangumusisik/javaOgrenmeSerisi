@@ -42,3 +42,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 # 7. Gün
 * If - Else
 * If - Else If - Else
+
+# 8. Gün
+* Switch Case
+* Switch Case Örnekleri
+* Hesap Makinesi
+* Kullanıcı Girişi
