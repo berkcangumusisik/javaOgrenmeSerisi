@@ -13,6 +13,26 @@ public class KullaniciGirisi {
             System.out.println("Giriş yaptınız.");
         } else {
             System.out.println("Kullanıcı adınız veya şifreniz yanlış.");
+            int select;
+
+            System.out.println("Şifrenizi sıfırlamak ister misiniz?\nSıfırlamak için\n1-Evet 2-Hayır seçiniz");
+            select = input.nextByte();
+            switch (select) {
+                case 1:
+                    String newPasword;
+                    Scanner src = new Scanner(System.in);
+                    System.out.print("Yeni sifre giriniz:");
+                    newPasword = src.nextLine();
+                    if(newPasword.equals(password)){
+                        System.out.println("Yeni şifre eski şifre ile aynı olamaz.");
+                    }else{
+                        System.out.println("Şifre başarıyla oluşturuldu.");
+                    }
+                    break;
+            
+                case 2:
+                    System.out.println("Şifre sıfırlama işlemi iptal edildi.");
+            }
         }
     }
 }

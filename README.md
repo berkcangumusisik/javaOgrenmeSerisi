@@ -47,4 +47,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Switch Case
 * Switch Case Örnekleri
 * Hesap Makinesi
+
+# 9.Gün
 * Kullanıcı Girişi
+* Not Ortalaması
+* Hava Sıcaklığına Göre Etkinlik Önerme
+* Sayıları Büyükten Küçüğe Sıralama
