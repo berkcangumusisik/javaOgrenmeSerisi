@@ -53,3 +53,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Not Ortalaması
 * Hava Sıcaklığına Göre Etkinlik Önerme
 * Sayıları Büyükten Küçüğe Sıralama
+
+# 10.Gün
+* Burç Bulan Program
+* Uçak Bileti Fiyatı Hesaplama
+* Çin Zodyağı Hesaplama
+* Artık YIl Hesaplama
