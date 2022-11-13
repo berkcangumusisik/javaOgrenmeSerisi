@@ -71,3 +71,13 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * For Döngüsü
 * For - While Farkı
 * Continue - Break Deyimi
+
+# 13.Gün
+* Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program
+* 3'e ve 4'e Bölünen Sayıların Ortalamasını Bulan Program
+* Tek Sayıların Toplamını Bulan Program
+* 4'ün Katı ve Çift Sayıları Bulan Program
+* Girilen Sayıdan Küçük 2’nin Kuvvetlerini Bulan Program
+* Dört ve Beşin Kuvvetlerini Bulan Program
+* Faktöriyel Hesaplayan Program
+* Kombinasyon Hesaplayan Program
