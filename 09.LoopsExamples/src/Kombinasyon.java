@@ -1,7 +1,7 @@
 public class Kombinasyon {
     public static void main(String[] args) {
         int kombinasyon,nfaktoriyel=0,rfaktoriyel=0,nrfaktoriyel=0;
-     int n=10,r=2,total1=1,total2=1,total3=1; // 10 elemanli bir kumenin 2 elemanli altkumelerinin kombinasyonunu hesaplayalim
+        int n=10,r=2,total1=1,total2=1,total3=1; // 10 elemanli bir kumenin 2 elemanli altkumelerinin kombinasyonunu hesaplayalim
 
         for (int i = 1; i <=n ; i++) {
            total1=total1*i;

@@ -81,3 +81,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Dört ve Beşin Kuvvetlerini Bulan Program
 * Faktöriyel Hesaplayan Program
 * Kombinasyon Hesaplayan Program
+
+# 14.Gün
+* Üslü Sayı Hesaplayan Program
+* Armstrong Sayıları Bulan Program
+* Basamak Sayısı Bulan Program
+* Harmonik Sayıları Bulan Program
