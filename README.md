@@ -87,3 +87,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Armstrong Sayıları Bulan Program
 * Basamak Sayısı Bulan Program
 * Harmonik Sayıları Bulan Program
+
+# 15.Gün
+* Yıldızlar ile Üçgen Yapımı
+* Yıldızlar ile Elmas Yapımı
+* ATM Uygulaması
+* Ebob Ekok Hesaplayan Program
