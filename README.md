@@ -93,3 +93,10 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Yıldızlar ile Elmas Yapımı
 * ATM Uygulaması
 * Ebob Ekok Hesaplayan Program
+
+# 16.Gün
+* Girilen Sayılardan Min ve Max Değerleri Bulma
+* Mükemmel Sayı Bulan Program
+* Ters Üçgen Yapımı
+* 1-100 Arasındaki Asal Sayıları Bulan Program
+* Fibonacci Serisi
