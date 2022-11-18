@@ -100,3 +100,12 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Ters Üçgen Yapımı
 * 1-100 Arasındaki Asal Sayıları Bulan Program
 * Fibonacci Serisi
+
+# 17.Gün
+* Metotlara Giriş
+* Metot Tanımlama
+* Metot Çağırma
+* Neden Metot Kullanırız?
+* Metot Nedir?
+* Return ve Void Kullanımı
+* Method Overloading
