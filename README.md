@@ -116,3 +116,10 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Çoklu Parametreli Metotlar
 * Palindrom Sayılar
 * Recursive ile Fibonacci Serisi Bulan Program
+
+
+# 19.Gün
+* Gelişmiş Hesap Makinesi
+* Üs Hesabı Yapan Program
+* Asal Sayı Bulan Program
+* Desene Göre Metot Oluşturma
