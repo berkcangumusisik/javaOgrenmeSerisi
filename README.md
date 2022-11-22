@@ -123,3 +123,16 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 * Üs Hesabı Yapan Program
 * Asal Sayı Bulan Program
 * Desene Göre Metot Oluşturma
+
+# 20.Gün
+* Sınıf ve Nesne Kavramları
+* Nesne Nedir?
+* Sınıf Nedir?
+* Neden Nesne Yönelimli Programlama Kullanırız?
+
+# 21.Gün
+- Class Yapısı
+- Class Oluşturma
+- Class Çağırma
+- Car Class Örneği
+- CustomerManager Class Örneği
