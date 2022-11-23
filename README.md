@@ -136,3 +136,8 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Class Çağırma
 - Car Class Örneği
 - CustomerManager Class Örneği
+
+
+# 22.Gün
+- Constructor(Kurucu) Metotlar
+- Öğrenci Bilgi Sistemi Uygulaması

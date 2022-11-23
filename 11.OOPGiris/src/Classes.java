@@ -5,25 +5,20 @@ public class Classes {
         customerManager.remove();
         customerManager.update();
 
-        Car audi = new Car();
-        audi.model = "Audi A3";
-        audi.type = "Sport";
-        audi.speed = 10;
+        Car audi = new Car("Sports", "Audi", "red");
         audi.increaseSpeed(20);
-        audi.decreaseSpeed(10);
-        audi.printSpeed();
+        audi.printInfo();
 
-        Car bmw = new Car();
+        Car bmw = new Car("Sports" , "BMW" , "blue");
         bmw.increaseSpeed(10);
         bmw.increaseSpeed(25);
         bmw.increaseSpeed(5);
-        bmw.printSpeed();
+        bmw.decreaseSpeed(25);
+        bmw.printInfo();
 
-
-        Car mercedes = new Car();
-        mercedes.speed = 30;
-        mercedes.increaseSpeed(10);
-        mercedes.printSpeed();
+        Car mercedes = new Car("Corporate" , "Mercedes" , "black");
+        mercedes.speed = 20;
+        mercedes.printInfo();
 
     }
 }
