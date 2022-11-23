@@ -7,9 +7,5 @@ public class Teacher {
         this.branch = branch;
         this.mpNo = mpNo;
     }
-    void print() {
-        System.out.println("İsim: " + this.name);
-        System.out.println("Branş: " + this.branch);
-        System.out.println("Telefon No: " + this.mpNo);
-    }
+
 }
