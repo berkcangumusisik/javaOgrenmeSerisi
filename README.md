@@ -141,3 +141,7 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 # 22.Gün
 - Constructor(Kurucu) Metotlar
 - Öğrenci Bilgi Sistemi Uygulaması
+
+# 23.Gün
+- Boks Oyunu Uygulaması
+- Maaş Hesaplama Uygulaması
