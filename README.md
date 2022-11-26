@@ -145,3 +145,11 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 # 23.Gün
 - Boks Oyunu Uygulaması
 - Maaş Hesaplama Uygulaması
+
+# 24.Gün
+- Dizi Nedir?
+- Dizi Tanımlama
+- Diziye Veri Atama
+- Tek Boyutlu Dizi
+- Çok Boyutlu Dizi
+- Foreach Döngüsü
