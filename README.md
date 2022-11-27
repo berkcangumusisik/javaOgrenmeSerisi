@@ -153,3 +153,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Tek Boyutlu Dizi
 - Çok Boyutlu Dizi
 - Foreach Döngüsü
+
+# 25.Gün
+- Arrays Sınıfı
+- Dizideki Elemanların Ortalamasını Bulan Program
+- Dizideki Elemanların Harmonik Ortalamasını Bulan Program
+- Dizideki Maksimum ve Minimum Değerleri Bulan Program
