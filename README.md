@@ -159,3 +159,12 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Dizideki Elemanların Ortalamasını Bulan Program
 - Dizideki Elemanların Harmonik Ortalamasını Bulan Program
 - Dizideki Maksimum ve Minimum Değerleri Bulan Program
+
+# 26.Gün
+- Çok Boyutlu Diziler ile A Harfi Yazdıran Program
+- Çok Boyutlu Diziler ile B Harfi Yazdıran Program
+- Dizide Tekrar Eden Elemanları Bulan Program
+- Dizide Tekrar Eden Çift Sayıları Bulan Program
+- Dizide Elemanların Sıralanması
+- Dizideki Elemanların Frekansını Bulan Program
+- Matris Transpozunu Bulan Program
