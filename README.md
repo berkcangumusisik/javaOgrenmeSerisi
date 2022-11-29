@@ -168,3 +168,10 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Dizide Elemanların Sıralanması
 - Dizideki Elemanların Frekansını Bulan Program
 - Matris Transpozunu Bulan Program
+
+# 27.Gün
+- Math Sınıfı ve Metotları
+- String Sınıfı ve Metotları
+- Palindromik Kelimleri Bulan Program
+- Sayı Tahmin Oyunu
+- Mayın Tarlası Oyunu
