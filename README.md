@@ -175,3 +175,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Palindromik Kelimleri Bulan Program
 - Sayı Tahmin Oyunu
 - Mayın Tarlası Oyunu
+
+# 28.Gün
+- Erişim Belirleyiciler
+- Static Kavramı
+- Static Kod Blokları
+- final Kullanımı
