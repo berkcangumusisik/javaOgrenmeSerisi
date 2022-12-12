@@ -181,3 +181,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Static Kavramı
 - Static Kod Blokları
 - final Kullanımı
+
+# 29.Gün
+- Encapsulation
+- Encapsulation İhtiyacını Anlamak
+- Getter
+- Setter
