@@ -187,3 +187,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Encapsulation İhtiyacını Anlamak
 - Getter
 - Setter
+
+# 30.Gün
+- Inheritance
+- Extend
+- Super()
+- Okul Sistemi Uygulaması
