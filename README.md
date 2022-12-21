@@ -193,3 +193,7 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Extend
 - Super()
 - Okul Sistemi Uygulaması
+
+# 31. Gün
+- Polimorfizm
+- Polimorfizm Uygulaması
