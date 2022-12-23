@@ -197,3 +197,8 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 # 31. Gün
 - Polimorfizm
 - Polimorfizm Uygulaması
+
+# 32. Gün
+- Overriding
+- Abstract Class
+- Abstract Class Uygulaması
