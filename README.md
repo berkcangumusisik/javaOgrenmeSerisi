@@ -202,3 +202,7 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Overriding
 - Abstract Class
 - Abstract Class Uygulaması
+
+# 33. Gün
+- Interface
+- Interface Uygulaması
