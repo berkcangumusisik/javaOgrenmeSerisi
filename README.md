@@ -206,3 +206,9 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 # 33. Gün
 - Interface
 - Interface Uygulaması
+
+
+# 34. Gün
+- Macera Oyunu Tanıtımı
+- Macera Oyunu Sınıf Tasarımı
+- Macera Oyunu Karakter Sınıfı
