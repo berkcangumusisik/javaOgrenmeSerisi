@@ -212,3 +212,6 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 - Macera Oyunu Tanıtımı
 - Macera Oyunu Sınıf Tasarımı
 - Macera Oyunu Karakter Sınıfı
+
+# 35. Gün
+- Harita ve Bölge Tasarımı Part 1
