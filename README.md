@@ -215,3 +215,6 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 
 # 35. Gün
 - Harita ve Bölge Tasarımı Part 1
+
+# 35. Gün
+- Harita ve Bölge Tasarımı Part 2

@@ -11,6 +11,7 @@ public class Game {
         System.out.println("Sayın " + player.getName() + " karakter seçimi yapınız.");
         player.selectChar();
         while (true) {
+            player.printInfo();
             Location location = null;
             System.out.println("################Bölgeler###############");
             System.out.println("1 - Güvenli Ev => Burası sizin için güvenlidir. Düşman bulunmaz.");
