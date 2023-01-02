@@ -216,5 +216,10 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 # 35. Gün
 - Harita ve Bölge Tasarımı Part 1
 
-# 35. Gün
+# 36. Gün
 - Harita ve Bölge Tasarımı Part 2
+ 
+# 37.Gün
+- Macera Oyunu Mağaza Eşya Sistemi
+
+ 
