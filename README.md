@@ -222,4 +222,5 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 # 37.Gün
 - Macera Oyunu Mağaza Eşya Sistemi
 
- 
+# 38.Gün
+- Macera Oyunu Tehlikeli Bölgeler ve Canavarlar
