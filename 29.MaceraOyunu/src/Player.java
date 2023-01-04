@@ -67,10 +67,14 @@ public class Player {
             "Silahınız : " + this.getInventory().getWeapon().getName() + 
             " Zırhınız : " + this.getInventory().getArmor().getName() + 
             " Bloklama : " + this.getInventory().getArmor().getBlock() + 
-            " Hasarınız : " + this.getDamage() +
+            " Hasarınız : " + this.getTotalDamage() +
             " Sağlık : " + this.getHealth() +
             " Para : " + this.getMoney()
         );
+    }
+
+    public int getTotalDamage(){
+        return this.getDamage() + this.getInventory().getWeapon().getDamage();
     }
     public int getDamage() {
         return damage + this.getInventory().getWeapon().getDamage();
@@ -118,4 +122,5 @@ public class Player {
     public void setInventory(Inventory inventory) {
         this.inventory = inventory;
     }
+
 }

@@ -224,3 +224,7 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 
 # 38.Gün
 - Macera Oyunu Tehlikeli Bölgeler ve Canavarlar
+
+# 39.Gün
+- Macera Oyunu Savaş Algoritması
+- Macera Oyunu Ödül Sistemi
