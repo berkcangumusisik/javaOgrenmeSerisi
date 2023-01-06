@@ -228,3 +228,7 @@ Bu reponun amacı kendimi Java alanında geliştirirken Java'ya yeni başlayacak
 # 39.Gün
 - Macera Oyunu Savaş Algoritması
 - Macera Oyunu Ödül Sistemi
+
+# 40.Gün
+- Nested Class 
+- Inner Class
